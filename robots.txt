@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahmeeshiex.creativeanastasia.com/sitemap.xml
